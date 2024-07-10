@@ -130,6 +130,7 @@
     <ClCompile Include="2001210757_NguyenHuuChi_Buoi1.cpp" />
     <ClCompile Include="Bai5.cpp" />
     <ClCompile Include="bai6.cpp" />
+    <ClCompile Include="bai7.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
