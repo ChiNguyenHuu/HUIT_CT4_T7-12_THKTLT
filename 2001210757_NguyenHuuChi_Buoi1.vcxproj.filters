@@ -27,5 +27,8 @@
     <ClCompile Include="bai7.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="bai8cpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
