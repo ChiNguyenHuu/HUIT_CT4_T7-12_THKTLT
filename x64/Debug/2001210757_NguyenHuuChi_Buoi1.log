@@ -1,0 +1,6 @@
+﻿  bai6.cpp
+D:\HK3 nam 3\HUIT_CT4_T7-12_THKTLT\2001210757_NguyenHuuChi_Buoi1\2001210757_NguyenHuuChi_Buoi1\bai6.cpp(34,20): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+D:\HK3 nam 3\HUIT_CT4_T7-12_THKTLT\2001210757_NguyenHuuChi_Buoi1\2001210757_NguyenHuuChi_Buoi1\bai6.cpp(37,20): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+D:\HK3 nam 3\HUIT_CT4_T7-12_THKTLT\2001210757_NguyenHuuChi_Buoi1\2001210757_NguyenHuuChi_Buoi1\bai6.cpp(17,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\HK3 nam 3\HUIT_CT4_T7-12_THKTLT\2001210757_NguyenHuuChi_Buoi1\2001210757_NguyenHuuChi_Buoi1\bai6.cpp(21,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  2001210757_NguyenHuuChi_Buoi1.vcxproj -> D:\HK3 nam 3\HUIT_CT4_T7-12_THKTLT\2001210757_NguyenHuuChi_Buoi1\x64\Debug\2001210757_NguyenHuuChi_Buoi1.exe
