@@ -10,4 +10,6 @@ Bài 8
 ![image](https://github.com/ChiNguyenHuu/HUIT_CT4_T7-12_THKTLT/assets/134642964/9d23dba4-2234-4082-bb9c-f0fc682399c4)
 ![image](https://github.com/ChiNguyenHuu/HUIT_CT4_T7-12_THKTLT/assets/134642964/edb80b13-2678-4369-b2af-fe249a7ad25f)
 ![image](https://github.com/ChiNguyenHuu/HUIT_CT4_T7-12_THKTLT/assets/134642964/a598fd3c-4c40-4d09-8f9c-7a5dfc498ccb)
+Bài 9 
+![image](https://github.com/user-attachments/assets/b4e60e38-2e62-416e-9232-e6b11fdb43ea)
 
